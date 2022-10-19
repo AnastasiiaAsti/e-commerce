@@ -4,10 +4,9 @@ import StarIcon from '@mui/icons-material/Star';
 
 function Product() {
   return (
-      <div>
           <div className="product">
               <div className="product__info">
-                  <p>Title</p>
+                  <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente, nam!</p>
                   <p className="prodect__price">
                       <small>$</small>
                       <strong>30</strong>
@@ -18,7 +17,6 @@ function Product() {
 
               <button>Add To Basket</button>
           </div>
-    </div>
   )
 }
 
