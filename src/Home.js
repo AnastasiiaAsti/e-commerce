@@ -23,8 +23,7 @@ function Home() {
                         price={100}
                         rating={4}
                         image="https://images.unsplash.com/photo-1523275335684-37898b6baf30?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8cHJvZHVjdHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=1600&q=60"/>
-                    </div>
-                    <div className="home__row">
+              
                         <Product
                         id="123453"
                         title="Suede green boots that would break hearts and wallets"
@@ -43,8 +42,7 @@ function Home() {
                         price={88}
                         rating={5}
                         image="https://images.unsplash.com/photo-1581235720704-06d3acfcb36f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTZ8fHByb2R1Y3R8ZW58MHx8MHx8&auto=format&fit=crop&w=1600&q=60"/>
-                    </div>
-                    <div className="home__row">
+               
                         <Product
                         id="123456"
                         title="Colorfull heels"
