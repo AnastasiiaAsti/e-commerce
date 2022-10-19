@@ -8,7 +8,7 @@ function Header(){
     return (
         <div className="header">
             <div className="header__logo">
-        <StorefrontIcon className="header__ligoImage" fontSize="large"/>
+        <StorefrontIcon className="header__logoImage" fontSize="large"/>
         <h2 className="header__logoTitle">E-commerce</h2>
       </div>
 
