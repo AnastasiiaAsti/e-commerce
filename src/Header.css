@@ -59,6 +59,11 @@
     color: #fff;
 }
 
+.nav__item.shopping {
+    flex-direction: row;
+    align-items: center;
+}
+
 .nav__itemLineOne {
     font-size: 10px;
 }
@@ -74,5 +79,9 @@
     color: #fff;
     margin-right: 50px;
     margin-left: 10px;
+}
 
+.nav__basketCount {
+    margin-left: 10px;
+    margin-right: 10px;
 }
