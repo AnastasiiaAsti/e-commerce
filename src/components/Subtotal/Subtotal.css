@@ -2,12 +2,13 @@
     display: flex;
     flex-direction: column;
     justify-content: space-between;
-    width: 300px;
     height: 150px;
     padding: 20px;
     border: 1px solid #dddddd;
     border-radius: 3px;
     margin-left: 20px;
+    background-color: rgb(29, 72, 102);
+    color: #FFF;
 }
 
 .subtotal__gift {

@@ -19,4 +19,10 @@
 .checkout__left {
     display: flex;
     flex-direction: column;
+    width: 70vw;
+
+}
+
+.checkout__right {
+    width: 30vw;
 }
