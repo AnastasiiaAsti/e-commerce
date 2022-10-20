@@ -1,9 +1,18 @@
-import CheckOut from '../../components/CheckOut/CheckOut';
+import CheckoutProduct from '../../components/CheckoutProduct/CheckoutProduct';
 
 import React from 'react'
 
-export default function HomePage() {
+export default function CheckOutPagePage() {
   return (
-    <div><CheckOut /></div>
+    <div className="checkout">
+          <div className="checkout__left">
+              <img src="https://myairforcelife.com/wp-content/uploads/2021/07/add-img-1.jpg" alt="" className="checkout__ad" />
+              <div>
+                  <h2 className="checkout__title">Your Shopping Cart</h2>
+                  <CheckoutProduct />
+              </div>
+          </div>
+          <div className="checkout__right"></div>
+    </div>
   )
 }
