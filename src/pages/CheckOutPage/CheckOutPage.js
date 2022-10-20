@@ -1,4 +1,5 @@
 import CheckoutProduct from '../../components/CheckoutProduct/CheckoutProduct';
+import Subtotal from '../../components/Subtotal/Subtotal.js';
 
 import React from 'react'
 
@@ -12,7 +13,9 @@ export default function CheckOutPagePage() {
                   <CheckoutProduct />
               </div>
           </div>
-          <div className="checkout__right"></div>
+      <div className="checkout__right">
+        <Subtotal/>
+          </div>
     </div>
   )
 }
