@@ -2,6 +2,8 @@
 
 (Front only) Enjoy a seamless shopping experience across all devices, including desktops, tablets, and smartphones. ShopEase's responsive design ensures that you can access the website and browse products effortlessly, no matter where you are or what device you're using.
 
+Check it out <a href="https://ecommerce-cstore-clone.netlify.app/">HERE</a>
+
 # Tech used: 
 
 React, HTML5, CSS3, JavaScript
